@@ -1,5 +1,5 @@
 _repo: A-Collection-of-Scotch-Proverbs_7018
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Taylor, Archer
@@ -7,12 +7,17 @@ contributor:
     deathdate: 1973
     gutenberg_agent_id: '39970'
     url: http://www.gutenberg.org/2009/agents/39970
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stampoy, Pappity
     gutenberg_agent_id: '2306'
     url: http://www.gutenberg.org/2009/agents/2306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7018#A-Collection-of-Scotch-Proverbs
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
